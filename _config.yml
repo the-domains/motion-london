@@ -31,4 +31,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Take the journey
 description: "Everything in motion. Motion in everything.\_"
