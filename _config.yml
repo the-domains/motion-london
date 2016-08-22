@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.4283305
 name: '>MOTION London'
 navigation:
-  - name: '>MOTION The experience'
+  - name: '>MOTION The group experience'
     id: ed95a839-5685-4c8d-91eb-cf01ed444c43
     type: content
   - name: 'Content '
