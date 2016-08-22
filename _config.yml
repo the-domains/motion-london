@@ -1,8 +1,14 @@
 layout_spectrum: 0.7103024
-typography_spectrum: 0.406759
 color:
   saturation: 0.8204047
   lightness: 0.3271501
-  brandStrength: 0.3285617
+  brandStrength: 0.3322091
+  brandColors:
+    - '#A0A0A0'
+    - '#575757'
+    - '#202020'
+    - '#908189'
+    - '#458AAC'
   rhythmicContrast: 0.9367622
+typography_spectrum: 0.2959528
 name: '>MOTION London'
