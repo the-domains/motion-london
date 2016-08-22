@@ -10,8 +10,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.2613828
 color:
-  saturation: 0.5320405
+  saturation: 1
   brandStrength: 0.3322091
   lightness: 1
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#8C8C8C'
     - '#A7A7A8'
     - '#CBCBCD'
-  rhythmicContrast: 0
-typography_spectrum: 0.2613828
+  rhythmicContrast: 1
 layout_spectrum: 0
 name: '>MOTION London'
