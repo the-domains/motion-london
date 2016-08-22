@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-22T23:50:08.281Z'
+datePublished: '2016-08-22T23:50:50.563Z'
+sourcePath: _posts/2016-08-22-greatermotion.md
 author: []
 via: {}
 metadata:
@@ -14,20 +15,20 @@ metadata:
   description: >-
     >EMOTION is a 12 week group therapeutic experience in Central London run by
     psychologist Dr Jason Robinson
-dateModified: '2016-08-22T23:50:07.681Z'
+dateModified: '2016-08-22T23:50:49.959Z'
 title: '>MOTION'
 id: ed95a839-5685-4c8d-91eb-cf01ed444c43
 publisher: {}
-description: 'What is >MOTION? '
+description: What is >MOTION?
 starred: false
-sourcePath: _posts/2016-08-22-greatermotion.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-What is \>MOTION? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f18f2df-c0a8-4986-8891-6fb728808ca1.jpg)
+What is \>MOTION?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f18f2df-c0a8-4986-8891-6fb728808ca1.jpg)
 
 # \>MOTION
 
