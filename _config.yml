@@ -24,3 +24,7 @@ color:
   rhythmicContrast: 1
 layout_spectrum: 0
 name: '>MOTION London'
+navigation:
+  - name: '>MOTION The experience'
+    id: ed95a839-5685-4c8d-91eb-cf01ed444c43
+    type: content
