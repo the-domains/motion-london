@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T15:15:23.476Z'
+datePublished: '2016-08-23T15:18:26.226Z'
 sourcePath: _posts/2016-08-23-there-is-greatermotion-in-everyone.md
 author: []
 via: {}
-dateModified: '2016-08-23T15:15:22.956Z'
+dateModified: '2016-08-23T15:18:25.769Z'
 title: There is motion in everyone
 publisher: {}
 description: ''
