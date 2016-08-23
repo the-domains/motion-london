@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.2613828
 color:
   saturation: 1
@@ -29,5 +29,5 @@ navigation:
   - name: 'Content '
     id: 5d3d10db-9096-4f5d-bcb0-ace37c8ec8dd
     type: content
-layout_spectrum: 0.8979764
+layout_spectrum: 0.3220911
 name: '>MOTION London'
