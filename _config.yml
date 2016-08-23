@@ -1,3 +1,27 @@
+typography_spectrum: 0.2613828
+color:
+  saturation: 1
+  brandStrength: 0.3322091
+  rhythmicContrast: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#636363'
+    - '#8C8C8C'
+    - '#A7A7A8'
+    - '#CBCBCD'
+  lightness: 1
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/67c9e023-f844-4002-b03b-7ec86d25c842.jpg
+layout_spectrum: 0.4283305
+author:
+  name: Jason Robinson
+  email: jasrobinsonuk@yahoo.co.uk
+name: '>MOTION London'
+navigation:
+  - name: What is >MOTION
+    id: ed95a839-5685-4c8d-91eb-cf01ed444c43
+    type: content
 collections:
   - index:
       path: /
@@ -10,24 +34,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.3322091
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#636363'
-    - '#8C8C8C'
-    - '#A7A7A8'
-    - '#CBCBCD'
-  lightness: 1
-typography_spectrum: 0.2613828
-navigation:
-  - name: '>MOTION The experience'
-    id: ed95a839-5685-4c8d-91eb-cf01ed444c43
-    type: content
-  - name: 'Content '
-    id: 5d3d10db-9096-4f5d-bcb0-ace37c8ec8dd
-    type: content
-layout_spectrum: 1
-name: '>MOTION London'
+title: ''
+description: "Everything in motion. Motion in everything.\_"
