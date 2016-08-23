@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T01:18:33.346Z'
+datePublished: '2016-08-23T01:19:39.753Z'
 sourcePath: _posts/2016-08-22-greatermotion.md
 author: []
 via: {}
@@ -38,16 +38,15 @@ metadata:
     publisher: {}
     description: What is >MOTION?
   dateModified: '2016-08-23T00:20:13.521Z'
-dateModified: '2016-08-23T01:18:33.100Z'
+dateModified: '2016-08-23T01:19:39.326Z'
 title: '>MOTION'
 id: ed95a839-5685-4c8d-91eb-cf01ed444c43
 publisher: {}
 description: What is >MOTION?
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: greatermotion/index.html
+_type: Blurb
 
 ---
 What is \>MOTION?
