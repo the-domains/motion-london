@@ -10,7 +10,13 @@ color:
     - '#A7A7A8'
     - '#CBCBCD'
   lightness: 1
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/67c9e023-f844-4002-b03b-7ec86d25c842.jpg
 layout_spectrum: 0.4283305
+author:
+  name: Jason Robinson
+  email: jasrobinsonuk@yahoo.co.uk
 name: '>MOTION London'
 navigation:
   - name: 'Content '
@@ -31,5 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: Everything in motion. Motion in Everything.
 description: "Everything in motion. Motion in everything.\_"
