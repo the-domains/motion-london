@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T01:06:40.183Z'
+datePublished: '2016-08-23T01:08:56.639Z'
 sourcePath: _posts/2016-08-22-greatermotion.md
 author: []
 via: {}
@@ -38,7 +38,7 @@ metadata:
     publisher: {}
     description: What is >MOTION?
   dateModified: '2016-08-23T00:20:13.521Z'
-dateModified: '2016-08-23T01:06:39.721Z'
+dateModified: '2016-08-23T01:08:56.268Z'
 title: '>MOTION'
 id: ed95a839-5685-4c8d-91eb-cf01ed444c43
 publisher: {}
@@ -55,4 +55,4 @@ What is \>MOTION?
 
 # \>MOTION
 
-\>MOTION is a new and exciting group therapeutic experience starting in Spring 2017
+\>a new and exciting group therapeutic experience starting in Spring 2017
