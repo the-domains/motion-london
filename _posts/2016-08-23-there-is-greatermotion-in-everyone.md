@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-23T01:49:15.602Z'
+datePublished: '2016-08-23T15:15:23.476Z'
 sourcePath: _posts/2016-08-23-there-is-greatermotion-in-everyone.md
 author: []
 via: {}
-dateModified: '2016-08-23T01:49:15.258Z'
-title: ''
+dateModified: '2016-08-23T15:15:22.956Z'
+title: There is motion in everyone
 publisher: {}
-description: There is >MOTION in everyone
+description: ''
 starred: false
 inFeed: true
 hasPage: true
@@ -16,4 +16,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![There is >MOTION in everyone](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d786674-0c58-4e74-ac86-4495fe7ec4bd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e446ed-2813-4223-8637-bcfd1504cd75.jpg)
+
+# There is motion in everyone
