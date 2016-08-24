@@ -1,13 +1,13 @@
 ---
-title: What is >MOTION?
-datePublished: '2016-08-24T22:06:46.750Z'
-dateModified: '2016-08-24T22:06:46.245Z'
-author: []
-description: '>Motion is a dynamic group therapy experience starting in London in 2017'
-publisher: {}
-via: {}
+datePublished: '2016-08-24T22:13:12.830Z'
 sourcePath: _posts/2016-08-24-what-is-greatermotion.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-24T22:13:12.423Z'
+title: What is >MOTION?
+publisher: {}
+description: '>Motion is a dynamic group therapy experience starting in London in 2017'
 starred: false
 url: what-is-greatermotion/index.html
 _type: Blurb
