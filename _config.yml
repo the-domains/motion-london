@@ -22,9 +22,5 @@ color:
     - '#A7A7A8'
     - '#CBCBCD'
   lightness: 1
-navigation:
-  - name: '>MOTION The experience'
-    id: ed95a839-5685-4c8d-91eb-cf01ed444c43
-    type: content
 layout_spectrum: 0.001686341
 name: '>MOTION London'
