@@ -23,4 +23,8 @@ collections:
       path: '/:title/'
 layout_spectrum: 0.001686341
 typography_spectrum: 0.2613828
-name: '>MOTION London'
+name: '>MOTIONlondon'
+navigation:
+  - name: What is >MOTION?
+    id: bf717d23-8b27-4439-8112-13748eb5bc85
+    type: content
