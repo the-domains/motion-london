@@ -1,3 +1,16 @@
+layout_spectrum: 0.3213352884631604
+typography_spectrum: 0.7825265254359692
+color:
+  saturation: 1
+  brandStrength: 0.3322091
+  rhythmicContrast: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#636363'
+    - '#8C8C8C'
+    - '#A7A7A8'
+    - '#CBCBCD'
+  lightness: 1
 collections:
   - index:
       path: /
@@ -10,21 +23,8 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.3322091
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#636363'
-    - '#8C8C8C'
-    - '#A7A7A8'
-    - '#CBCBCD'
-  lightness: 1
-typography_spectrum: 0.2613828
 navigation:
   - name: What is >MOTION?
     id: bf717d23-8b27-4439-8112-13748eb5bc85
     type: content
-layout_spectrum: 1
 name: '>MOTION London'
