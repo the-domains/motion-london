@@ -24,3 +24,7 @@ color:
   lightness: 1
 layout_spectrum: 0.3086003
 name: '>MOTION London'
+navigation:
+  - name: What is >MOTION?
+    id: bf717d23-8b27-4439-8112-13748eb5bc85
+    type: content
