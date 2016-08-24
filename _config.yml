@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.2613828
 color:
   saturation: 1
   brandStrength: 0.3322091
@@ -22,9 +21,10 @@ color:
     - '#A7A7A8'
     - '#CBCBCD'
   lightness: 1
+typography_spectrum: 0.2613828
 navigation:
   - name: What is >MOTION?
     id: bf717d23-8b27-4439-8112-13748eb5bc85
     type: content
-layout_spectrum: 0.5935919
+layout_spectrum: 1
 name: '>MOTION London'
