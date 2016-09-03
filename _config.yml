@@ -1,4 +1,3 @@
-layout_spectrum: 0.17507768352515996
 typography_spectrum: 0.15724137774668634
 color:
   saturation: 0.6017120878677815
@@ -11,7 +10,8 @@ color:
     - '#90ACC1'
     - '#1F3E52'
   rhythmicContrast: 0.7506513542030007
-title: '>MOTION london'
+layout_spectrum: 0.17507768352515996
+name: '>MOTIONlondon'
 collections:
   - index:
       path: /
@@ -24,5 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-description: Starts 2017
-name: '>MOTIONlondon'
+title: '>MOTION london'
+description: Launches early 2017
