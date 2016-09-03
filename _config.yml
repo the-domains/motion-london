@@ -14,14 +14,14 @@ collections:
 color:
   saturation: 1
   brandStrength: 0.3322091
-  rhythmicContrast: 1
+  lightness: 0.2790894
   brandColors:
     - '#FFFFFF'
     - '#636363'
     - '#8C8C8C'
     - '#A7A7A8'
     - '#CBCBCD'
-  lightness: 1
+  rhythmicContrast: 1
 typography_spectrum: 0.9858011552132666
 description: Starts 2017
 layout_spectrum: 0
