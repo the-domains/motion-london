@@ -11,7 +11,7 @@ color:
     - '#CBCBCD'
   lightness: 1
 layout_spectrum: 0
-name: '>MOTION London'
+name: '>MOTIONlondon'
 collections:
   - index:
       path: /
@@ -25,3 +25,4 @@ collections:
     permalink:
       path: '/:title/'
 title: '>MOTION london'
+description: Starts 2017
