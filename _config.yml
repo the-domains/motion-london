@@ -1,3 +1,16 @@
+layout_spectrum: 0.9074205986689776
+typography_spectrum: 0.6340337733272463
+color:
+  saturation: 0.6017120878677815
+  brandStrength: 0.8682997180148959
+  lightness: 0.37340171285904944
+  brandColors:
+    - '#EBEBED'
+    - '#BFC8D9'
+    - '#406578'
+    - '#90ACC1'
+    - '#1F3E52'
+  rhythmicContrast: 0.7506513542030007
 title: '>MOTION london'
 collections:
   - index:
@@ -11,18 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#E8E7EC'
-    - '#CBCDDA'
-    - '#8CA7BA'
-    - '#00182C'
-    - '#214B61'
-  rhythmicContrast: 1
-typography_spectrum: 0.9858011552132666
 description: Starts 2017
-layout_spectrum: 0
 name: '>MOTIONlondon'
