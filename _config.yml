@@ -1,4 +1,5 @@
-typography_spectrum: 0.15724137774668634
+layout_spectrum: 0.6441010117996484
+typography_spectrum: 0.6977115289773792
 color:
   saturation: 0.6017120878677815
   brandStrength: 0.8682997180148959
@@ -10,7 +11,6 @@ color:
     - '#90ACC1'
     - '#1F3E52'
   rhythmicContrast: 0.7506513542030007
-layout_spectrum: 0.17507768352515996
 name: '>MOTIONlondon'
 navigation:
   - name: What is >Motion
