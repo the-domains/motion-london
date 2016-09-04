@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-01T05:12:03.693Z'
+datePublished: '2016-09-01T09:46:33.009Z'
 sourcePath: >-
   _posts/2016-09-01-due-to-launch-early-in-2017-greatermotion-london-is-a-fresh-and-dy.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T05:12:02.992Z'
+dateModified: '2016-09-01T09:46:32.615Z'
 title: ''
 publisher: {}
 description: >-
