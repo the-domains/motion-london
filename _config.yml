@@ -1,28 +1,32 @@
-title: '>MOTION london'
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.15724137774668634
 color:
   saturation: 0.6017120878677815
   brandStrength: 0.8682997180148959
-  rhythmicContrast: 0.7506513542030007
+  lightness: 0.37340171285904944
   brandColors:
     - '#EBEBED'
     - '#BFC8D9'
     - '#406578'
     - '#90ACC1'
     - '#1F3E52'
-  lightness: 0.3734017128590494
-typography_spectrum: 0.1572413777466863
-description: Launches early 2017
-layout_spectrum: 0
+  rhythmicContrast: 0.7506513542030007
+layout_spectrum: 0.17507768352515996
 name: '>MOTIONlondon'
+navigation:
+  - name: What is >Motion
+    id: 220d2cd6-6f9b-4d0b-b796-0b43f90b2467
+    type: content
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: '>MOTION london'
+description: Launches early 2017
